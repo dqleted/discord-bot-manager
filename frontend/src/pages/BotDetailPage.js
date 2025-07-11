@@ -39,6 +39,7 @@ import {
   CheckCircle as ActiveIcon,
   Cancel as InactiveIcon,
   Timeline as TimelineIcon,
+  Add as AddIcon,
 } from '@mui/icons-material';
 import { useAuth } from '../context/AuthContext';
 
